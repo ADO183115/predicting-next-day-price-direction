@@ -16,8 +16,8 @@ step_size = 21\
            1       0.55      0.62      0.58      4730
 
     accuracy                           0.52      8826
-   macro avg       0.51      0.51      0.51      8826
-weighted avg       0.52      0.52      0.51      8826
+    macro avg       0.51      0.51      0.51      8826
+    weighted avg       0.52      0.52      0.51      8826
 
 --- Always Up Baseline ---
 
@@ -27,8 +27,8 @@ weighted avg       0.52      0.52      0.51      8826
            1       0.54      1.00      0.70      4730
 
     accuracy                           0.54      8826
-   macro avg       0.27      0.50      0.35      8826
-weighted avg       0.29      0.54      0.37      8826
+    macro avg       0.27      0.50      0.35      8826
+    weighted avg       0.29      0.54      0.37      8826
 
 ## Confident Model
 Only confident predictions\
@@ -42,8 +42,8 @@ step_size = 21\
            1       0.55      0.75      0.64      1404
 
     accuracy                           0.54      2622
-   macro avg       0.53      0.53      0.51      2622
-weighted avg       0.53      0.54      0.52      2622
+    macro avg       0.53      0.53      0.51      2622
+    weighted avg       0.53      0.54      0.52      2622
 
 --- Always Up Baseline ---
 
@@ -53,8 +53,8 @@ weighted avg       0.53      0.54      0.52      2622
            1       0.54      1.00      0.70      1404
 
     accuracy                           0.54      2622
-   macro avg       0.27      0.50      0.35      2622
-weighted avg       0.29      0.54      0.37      2622
+    macro avg       0.27      0.50      0.35      2622
+    weighted avg       0.29      0.54      0.37      2622
 
 # Logistic Regression--------------------------------
 
@@ -69,8 +69,8 @@ step_size = 21\
            1       0.55      0.66      0.60      4730
 
     accuracy                           0.52      8826
-   macro avg       0.52      0.51      0.51      8826
-weighted avg       0.52      0.52      0.51      8826
+    macro avg       0.52      0.51      0.51      8826
+    weighted avg       0.52      0.52      0.51      8826
 
 --- Always Up Baseline ---
 
@@ -80,8 +80,8 @@ weighted avg       0.52      0.52      0.51      8826
            1       0.54      1.00      0.70      4730
 
     accuracy                           0.54      8826
-   macro avg       0.27      0.50      0.35      8826
-weighted avg       0.29      0.54      0.37      8826
+    macro avg       0.27      0.50      0.35      8826
+    weighted avg       0.29      0.54      0.37      8826
 
 ## Confident Model
 Only confident predictions\
@@ -95,8 +95,8 @@ step_size = 21\
            1       0.55      0.75      0.64      1732
 
     accuracy                           0.54      3235
-   macro avg       0.53      0.52      0.50      3235
-weighted avg       0.53      0.54      0.51      3235
+    macro avg       0.53      0.52      0.50      3235
+    weighted avg       0.53      0.54      0.51      3235
 
 --- Always Up Baseline ---
 
@@ -106,5 +106,5 @@ weighted avg       0.53      0.54      0.51      3235
            1       0.54      1.00      0.70      1732
 
     accuracy                           0.54      3235
-   macro avg       0.27      0.50      0.35      3235
-weighted avg       0.29      0.54      0.37      3235
+    macro avg       0.27      0.50      0.35      3235
+    weighted avg       0.29      0.54      0.37      3235
