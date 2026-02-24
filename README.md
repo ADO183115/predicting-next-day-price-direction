@@ -6,9 +6,10 @@ instead of one day used to predict the next day, maybe the last 10 days for the 
 # Random Forest--------------------------------------
 
 ## Base Model
-window_size = 1000
-step_size = 21
+window_size = 1000\
+step_size = 21\
 --- My Model Report ---
+
               precision    recall  f1-score   support
 
            0       0.48      0.40      0.44      4096
@@ -19,6 +20,7 @@ step_size = 21
 weighted avg       0.52      0.52      0.51      8826
 
 --- Always Up Baseline ---
+
               precision    recall  f1-score   support
 
            0       0.00      0.00      0.00      4096
@@ -29,10 +31,11 @@ weighted avg       0.52      0.52      0.51      8826
 weighted avg       0.29      0.54      0.37      8826
 
 ## Confident Model
-Only confident predictions
-window_size = 1000
-step_size = 21
+Only confident predictions\
+window_size = 1000\
+step_size = 21\
 --- My Model Report ---
+
               precision    recall  f1-score   support
 
            0       0.51      0.30      0.38      1218
@@ -43,6 +46,7 @@ step_size = 21
 weighted avg       0.53      0.54      0.52      2622
 
 --- Always Up Baseline ---
+
               precision    recall  f1-score   support
 
            0       0.00      0.00      0.00      1218
@@ -55,9 +59,10 @@ weighted avg       0.29      0.54      0.37      2622
 # Logistic Regression--------------------------------
 
 ## Base Model
-window_size = 1000
-step_size = 21
+window_size = 1000\
+step_size = 21\
 --- My Model Report ---
+
               precision    recall  f1-score   support
 
            0       0.48      0.37      0.42      4096
@@ -68,6 +73,7 @@ step_size = 21
 weighted avg       0.52      0.52      0.51      8826
 
 --- Always Up Baseline ---
+
               precision    recall  f1-score   support
 
            0       0.00      0.00      0.00      4096
@@ -78,10 +84,11 @@ weighted avg       0.52      0.52      0.51      8826
 weighted avg       0.29      0.54      0.37      8826
 
 ## Confident Model
-Only confident predictions
-window_size = 1000
-step_size = 21
+Only confident predictions\
+window_size = 1000\
+step_size = 21\
 --- My Model Report ---
+
               precision    recall  f1-score   support
 
            0       0.51      0.29      0.37      1503
@@ -92,6 +99,7 @@ step_size = 21
 weighted avg       0.53      0.54      0.51      3235
 
 --- Always Up Baseline ---
+
               precision    recall  f1-score   support
 
            0       0.00      0.00      0.00      1503
